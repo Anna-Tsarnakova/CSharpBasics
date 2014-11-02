@@ -1,0 +1,39 @@
+Problem 11. Programming Languages
+
+1. Java is a computer programming language that is concurrent, class-based, object-oriented, and specifically
+ designed to have as few implementation dependencies as possible. Java applications are typically compiled to bytecode
+ that can run on any Java virtual machine (JVM). Java and C# are similar programming languages that are statically, 
+ strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or 
+ runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++. 
+ Java is open source, multi-platform independent language, unlike C#. Java has less primitive types than C#.
+
+2. C is general purpose programming language. It was designed to be compiled using a relatively straightforward
+ compiler, to provide low-level access to memory, to provide language constructs that map efficiently to machine 
+ instructions, and to require minimal run-time support. A standards-compliant and portably written C program can 
+ be compiled for a very wide variety of computer platforms and operating systems with few changes to its source code. 
+ The language has become available on a very wide range of platform from embedded microcontrollers to supercomputers. 
+ C is an ancestor to many of the advanced programming languages such as C++, C#, Java, JavaScript, and Pearl. C is a 
+ structed language, but C# is an object orienated language.
+
+3. C++ is a general purpose programming language. It has imperative, object-oriented and generic programming 
+ features, while also providing the facilities for low level memory manipulation. It is designed with a bias for 
+ systems programming (e.g. embedded systems, operating system kernels), with performance, efficiency and flexibility 
+ of use as its design requirements. C++ has also been found useful in many other contexts, including desktop 
+ applications, servers, performance critical applications and entertainment software, such as video games.
+ C++ support multiple inheritance, unlike C#. C++ creates raw assemblies that run directly on the target platform, 
+ C# is a managed language that runs in a virtual machine.
+
+4. Python Python is a high-level programming language that supports imperative, object-oriented and functional 
+programming paradigms. In its features like the dynamic type system and automatic memory management, it is similar to Perl.
+Python is multi-platform independent language and dynamically typed, unlike C#.
+
+5. C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, 
+ generic, object-oriented and component-oriented programming disciplines. It was developed by Microsoft within its .NET 
+ initiative and later approved as a standard by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006). C# is one of the programming
+ languages designed for the Common Language Infrastructure (CLI). It is similar to C++ in its object-oriented syntax 
+ and is also influenced by Java and Delphi. 
+
+6. PHP is a server-side scripting language designed for web development but also used as a general purpose programming language.
+ PHP is developed for creating dynamic web pages and supports a command-line interface (CLI) capability. It can be directly 
+ embedded into an HTML source document rather than an external file, which has made it a popular programming language for web developers.  
+ PHP is open source, multi-platform, server-independent language, unlike C#. PHP is not a strongly typed language, but C# is strongly typed.

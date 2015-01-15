@@ -1,0 +1,11 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

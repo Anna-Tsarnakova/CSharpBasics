@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\bin\Debug\04.Rectangles.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\bin\Debug\04.Rectangles.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\04.Rectangles\obj\Debug\04.Rectangles.pdb

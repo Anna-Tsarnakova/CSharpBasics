@@ -1,0 +1,11 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

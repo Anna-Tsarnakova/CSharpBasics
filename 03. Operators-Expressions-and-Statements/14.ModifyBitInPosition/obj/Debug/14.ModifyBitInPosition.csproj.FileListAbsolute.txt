@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\bin\Debug\14.ModifyBitInPosition.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\bin\Debug\14.ModifyBitInPosition.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\bin\Debug\14.ModifyBitInPosition.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\obj\Debug\14.ModifyBitInPosition.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\obj\Debug\14.ModifyBitInPosition.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\obj\Debug\14.ModifyBitInPosition.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\bin\Debug\14.ModifyBitInPosition.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\obj\Debug\14.ModifyBitInPosition.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\14.ModifyBitInPosition\obj\Debug\14.ModifyBitInPosition.pdb

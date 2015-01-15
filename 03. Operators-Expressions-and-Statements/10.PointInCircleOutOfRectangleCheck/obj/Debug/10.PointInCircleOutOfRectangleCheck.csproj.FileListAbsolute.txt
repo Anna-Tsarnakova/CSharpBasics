@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\bin\Debug\10.PointInCircleOutOfRectangleCheck.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\bin\Debug\10.PointInCircleOutOfRectangleCheck.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\bin\Debug\10.PointInCircleOutOfRectangleCheck.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\bin\Debug\10.PointInCircleOutOfRectangleCheck.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\bin\Debug\10.PointInCircleOutOfRectangleCheck.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\10.PointInCircleOutOfRectangleCheck\obj\Debug\10.PointInCircleOutOfRectangleCheck.pdb

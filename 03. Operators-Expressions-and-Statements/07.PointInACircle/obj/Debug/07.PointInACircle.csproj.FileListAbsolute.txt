@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

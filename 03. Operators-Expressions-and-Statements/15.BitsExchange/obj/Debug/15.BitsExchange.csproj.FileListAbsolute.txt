@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

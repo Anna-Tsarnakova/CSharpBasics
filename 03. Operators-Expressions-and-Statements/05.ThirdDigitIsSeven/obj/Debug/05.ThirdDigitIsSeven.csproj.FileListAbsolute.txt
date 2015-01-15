@@ -1,0 +1,14 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb

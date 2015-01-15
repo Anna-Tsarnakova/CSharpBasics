@@ -1,0 +1,15 @@
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+D:\SoftUni-October-2014\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\03. Operators-Expressions-and-Statements\03.OperatorsExpressionsStatementsHW\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb

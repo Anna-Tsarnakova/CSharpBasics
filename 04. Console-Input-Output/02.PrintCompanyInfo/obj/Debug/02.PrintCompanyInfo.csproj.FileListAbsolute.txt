@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb

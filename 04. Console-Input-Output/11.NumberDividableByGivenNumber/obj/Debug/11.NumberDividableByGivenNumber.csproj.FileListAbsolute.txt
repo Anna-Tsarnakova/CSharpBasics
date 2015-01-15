@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\11.NumberDividableByGivenNumber\bin\Debug\11.NumberDividableByGivenNumber.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\11.NumberDividableByGivenNumber\bin\Debug\11.NumberDividableByGivenNumber.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\11.NumberDividableByGivenNumber\bin\Debug\11.NumberDividableByGivenNumber.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\11.NumberDividableByGivenNumber\obj\Debug\11.NumberDividableByGivenNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\11.NumberDividableByGivenNumber\obj\Debug\11.NumberDividableByGivenNumber.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\11.NumberDividableByGivenNumber\obj\Debug\11.NumberDividableByGivenNumber.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\11.NumberDividableByGivenNumber\bin\Debug\11.NumberDividableByGivenNumber.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\11.NumberDividableByGivenNumber\obj\Debug\11.NumberDividableByGivenNumber.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\11.NumberDividableByGivenNumber\obj\Debug\11.NumberDividableByGivenNumber.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

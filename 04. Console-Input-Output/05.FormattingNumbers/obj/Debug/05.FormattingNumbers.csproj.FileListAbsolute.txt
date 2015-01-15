@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\09.SumOfNumbersN\bin\Debug\09.SumOfNumbersN.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\09.SumOfNumbersN\obj\Debug\09.SumOfNumbersN.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+D:\SoftUni-October-2014\04. Console-Input-Output\04.ConsoleInputOutputHW\04.ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+C:\Users\John\Desktop\0.C#-Basics\CSharp-Basics\SoftUni-October-2014\01.Homework\04. Console-Input-Output\04.ConsoleInputOutputHW\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb

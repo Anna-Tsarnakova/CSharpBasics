@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

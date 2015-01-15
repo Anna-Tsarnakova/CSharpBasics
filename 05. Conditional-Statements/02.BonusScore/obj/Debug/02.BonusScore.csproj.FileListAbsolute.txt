@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\obj\Debug\02.BonusScore.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\02.BonusScore\obj\Debug\02.BonusScore.pdb

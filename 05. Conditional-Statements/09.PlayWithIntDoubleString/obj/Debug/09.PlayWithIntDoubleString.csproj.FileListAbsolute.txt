@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

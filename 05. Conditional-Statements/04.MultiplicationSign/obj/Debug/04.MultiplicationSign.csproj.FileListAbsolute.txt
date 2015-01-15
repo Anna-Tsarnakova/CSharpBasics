@@ -1,0 +1,8 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\bin\Debug\10.BeerTime.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\bin\Debug\10.BeerTime.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\obj\Debug\10.BeerTime.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\10.BeerTime\obj\Debug\10.BeerTime.pdb

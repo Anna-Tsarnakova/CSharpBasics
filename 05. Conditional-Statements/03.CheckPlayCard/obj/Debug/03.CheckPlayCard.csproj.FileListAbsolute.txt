@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

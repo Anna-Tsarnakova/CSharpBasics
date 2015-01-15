@@ -1,0 +1,8 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb

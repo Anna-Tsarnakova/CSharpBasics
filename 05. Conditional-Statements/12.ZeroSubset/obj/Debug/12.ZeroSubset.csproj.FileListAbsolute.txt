@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\SoftUni-October-2014\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\05. Conditional-Statements\05.Conditional-Statements-HW\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

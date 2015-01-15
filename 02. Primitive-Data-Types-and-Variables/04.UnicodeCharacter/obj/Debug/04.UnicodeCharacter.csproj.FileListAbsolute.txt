@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

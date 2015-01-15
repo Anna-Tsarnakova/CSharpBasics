@@ -1,0 +1,11 @@
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\obj\Debug\11.BankAccountData.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\obj\Debug\11.BankAccountData.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

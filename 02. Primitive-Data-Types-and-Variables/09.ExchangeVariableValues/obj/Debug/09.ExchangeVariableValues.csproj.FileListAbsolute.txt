@@ -1,0 +1,11 @@
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

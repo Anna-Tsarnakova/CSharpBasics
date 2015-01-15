@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb

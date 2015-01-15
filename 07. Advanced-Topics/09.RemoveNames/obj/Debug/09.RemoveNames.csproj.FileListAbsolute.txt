@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\obj\Debug\09.RemoveNames.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

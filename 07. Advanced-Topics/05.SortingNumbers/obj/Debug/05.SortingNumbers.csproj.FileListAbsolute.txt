@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\obj\Debug\05.SortingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

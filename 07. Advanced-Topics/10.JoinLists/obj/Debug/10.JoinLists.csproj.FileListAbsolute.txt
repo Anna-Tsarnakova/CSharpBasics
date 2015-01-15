@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\bin\Debug\10.JoinLists.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\bin\Debug\10.JoinLists.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\obj\Debug\10.JoinLists.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\obj\Debug\10.JoinLists.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\obj\Debug\10.JoinLists.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\10.JoinLists\obj\Debug\10.JoinLists.pdb

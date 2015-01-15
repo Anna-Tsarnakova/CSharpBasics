@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\bin\Debug\03.PrimesInRange.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\obj\Debug\03.PrimesInRange.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\obj\Debug\03.PrimesInRange.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\obj\Debug\03.PrimesInRange.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\obj\Debug\03.PrimesInRange.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\03.PrimesInRange\obj\Debug\03.PrimesInRange.pdb

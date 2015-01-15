@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

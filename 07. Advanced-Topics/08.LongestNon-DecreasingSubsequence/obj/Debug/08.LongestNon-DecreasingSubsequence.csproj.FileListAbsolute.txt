@@ -1,0 +1,12 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\bin\Debug\08.LongestNon-DecreasingSubsequence.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\bin\Debug\08.LongestNon-DecreasingSubsequence.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\bin\Debug\08.LongestNon-DecreasingSubsequence.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\obj\Debug\08.LongestNon-DecreasingSubsequence.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\obj\Debug\08.LongestNon-DecreasingSubsequence.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\obj\Debug\08.LongestNon-DecreasingSubsequence.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\bin\Debug\08.LongestNon-DecreasingSubsequence.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\obj\Debug\08.LongestNon-DecreasingSubsequence.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\obj\Debug\08.LongestNon-DecreasingSubsequence.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\bin\Debug\08.LongestNon-DecreasingSubsequence.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\bin\Debug\08.LongestNon-DecreasingSubsequence.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\08.LongestNon-DecreasingSubsequence\obj\Debug\08.LongestNon-DecreasingSubsequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\SoftUni-October-2014\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\07.Advanced-Topics\07.Advanced-Topics-HW\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

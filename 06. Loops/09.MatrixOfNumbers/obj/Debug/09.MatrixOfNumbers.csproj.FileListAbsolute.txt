@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

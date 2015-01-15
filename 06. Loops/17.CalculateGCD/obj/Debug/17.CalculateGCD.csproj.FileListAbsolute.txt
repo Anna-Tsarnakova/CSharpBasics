@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

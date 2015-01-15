@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.pdb

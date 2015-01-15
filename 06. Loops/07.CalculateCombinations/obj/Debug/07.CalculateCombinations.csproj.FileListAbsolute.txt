@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\06.N!DividedByK!\bin\Debug\06.N!DividedByK!.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\06.N!DividedByK!\bin\Debug\06.N!DividedByK!.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\06.N!DividedByK!\bin\Debug\06.N!DividedByK!.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\06.N!DividedByK!\obj\Debug\06.N!DividedByK!.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\06.N!DividedByK!\obj\Debug\06.N!DividedByK!.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\06.N!DividedByK!\obj\Debug\06.N!DividedByK!.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\06.N!DividedByK!\bin\Debug\06.N!DividedByK!.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\06.N!DividedByK!\obj\Debug\06.N!DividedByK!.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\06.N!DividedByK!\obj\Debug\06.N!DividedByK!.pdb

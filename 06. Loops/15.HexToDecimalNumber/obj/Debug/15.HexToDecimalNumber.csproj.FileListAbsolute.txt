@@ -1,0 +1,6 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\15.HexToDecimalNumber\bin\Debug\15.HexToDecimalNumber.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\15.HexToDecimalNumber\bin\Debug\15.HexToDecimalNumber.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\15.HexToDecimalNumber\bin\Debug\15.HexToDecimalNumber.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\15.HexToDecimalNumber\obj\Debug\15.HexToDecimalNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\15.HexToDecimalNumber\obj\Debug\15.HexToDecimalNumber.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\15.HexToDecimalNumber\obj\Debug\15.HexToDecimalNumber.pdb

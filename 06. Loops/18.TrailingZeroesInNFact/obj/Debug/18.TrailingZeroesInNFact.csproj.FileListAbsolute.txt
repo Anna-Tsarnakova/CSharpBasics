@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\bin\Debug\18.TrailingZeroesInNFact.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\bin\Debug\18.TrailingZeroesInNFact.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\bin\Debug\18.TrailingZeroesInNFact.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\obj\Debug\18.TrailingZeroesInNFact.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\obj\Debug\18.TrailingZeroesInNFact.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\obj\Debug\18.TrailingZeroesInNFact.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\bin\Debug\18.TrailingZeroesInNFact.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\obj\Debug\18.TrailingZeroesInNFact.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\18.TrailingZeroesInNFact\obj\Debug\18.TrailingZeroesInNFact.pdb

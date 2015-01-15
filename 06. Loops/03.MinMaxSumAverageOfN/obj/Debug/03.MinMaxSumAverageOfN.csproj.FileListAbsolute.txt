@@ -1,0 +1,8 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\bin\Debug\03.MinMaxSumAverageOfN.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\bin\Debug\03.MinMaxSumAverageOfN.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\bin\Debug\03.MinMaxSumAverageOfN.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\obj\Debug\03.MinMaxSumAverageOfN.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\obj\Debug\03.MinMaxSumAverageOfN.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\bin\Debug\03.MinMaxSumAverageOfN.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\obj\Debug\03.MinMaxSumAverageOfN.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\03.MinMaxSumAverageOfN\obj\Debug\03.MinMaxSumAverageOfN.pdb

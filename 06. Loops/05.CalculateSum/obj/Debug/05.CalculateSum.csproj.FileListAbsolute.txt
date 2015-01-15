@@ -1,0 +1,9 @@
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.exe.config
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.pdb
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.csprojResolveAssemblyReference.cache
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.exe
+D:\SoftUni-October-2014\06. Loops\06.Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.pdb
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.exe.config
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.exe
+C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\06. Loops\06.Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.pdb

@@ -1,6 +1,0 @@
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.exe.config
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.exe
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\bin\Debug\08.PrintSquareRoot.pdb
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.exe
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.pdb
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\08.PrintSquareRoot\obj\Debug\08.PrintSquareRoot.csprojResolveAssemblyReference.cache

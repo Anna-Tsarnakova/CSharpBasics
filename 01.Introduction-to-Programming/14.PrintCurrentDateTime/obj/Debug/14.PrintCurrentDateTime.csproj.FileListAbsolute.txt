@@ -1,6 +1,0 @@
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\14.PrintCurrentDateTime\bin\Debug\14.PrintCurrentDateTime.exe.config
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\14.PrintCurrentDateTime\obj\Debug\14.PrintCurrentDateTime.csprojResolveAssemblyReference.cache
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\14.PrintCurrentDateTime\bin\Debug\14.PrintCurrentDateTime.exe
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\14.PrintCurrentDateTime\bin\Debug\14.PrintCurrentDateTime.pdb
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\14.PrintCurrentDateTime\obj\Debug\14.PrintCurrentDateTime.exe
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\14.PrintCurrentDateTime\obj\Debug\14.PrintCurrentDateTime.pdb

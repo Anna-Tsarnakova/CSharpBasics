@@ -7,3 +7,6 @@ D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataT
 C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
 C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
 C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

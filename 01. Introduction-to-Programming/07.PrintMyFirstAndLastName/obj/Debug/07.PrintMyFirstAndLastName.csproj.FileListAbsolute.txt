@@ -1,0 +1,5 @@
+C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\07.PrintMyFirstAndLastName\bin\Debug\07.PrintMyFirstAndLastName.exe.config
+C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\07.PrintMyFirstAndLastName\bin\Debug\07.PrintMyFirstAndLastName.exe
+C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\07.PrintMyFirstAndLastName\bin\Debug\07.PrintMyFirstAndLastName.pdb
+C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\07.PrintMyFirstAndLastName\obj\Debug\07.PrintMyFirstAndLastName.exe
+C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\07.PrintMyFirstAndLastName\obj\Debug\07.PrintMyFirstAndLastName.pdb

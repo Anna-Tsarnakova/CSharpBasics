@@ -7,3 +7,6 @@ D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataT
 C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
 C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
 C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

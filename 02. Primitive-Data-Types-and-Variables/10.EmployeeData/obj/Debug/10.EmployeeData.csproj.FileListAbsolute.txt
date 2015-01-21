@@ -7,3 +7,6 @@ D:\SoftUni-October-2014\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataT
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\10.EmployeeData\obj\Debug\10.EmployeeData.exe
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -9,3 +9,6 @@ C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.exe.config
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.exe
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.pdb
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.exe.config
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.exe
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.pdb

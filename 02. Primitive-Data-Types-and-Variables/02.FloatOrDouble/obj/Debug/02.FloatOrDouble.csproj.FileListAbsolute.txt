@@ -12,3 +12,6 @@ C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

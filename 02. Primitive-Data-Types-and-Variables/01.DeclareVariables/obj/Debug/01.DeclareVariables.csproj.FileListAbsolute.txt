@@ -13,3 +13,6 @@ C:\Users\John\Desktop\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
 C:\Users\John\Desktop\CSharp-Basics\SoftUni-October-2014\01.Homework\02. Primitive-Data-Types-and-Variables\02.PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+C:\Users\John\Documents\GitHub\CSharpBasics\02. Primitive-Data-Types-and-Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb

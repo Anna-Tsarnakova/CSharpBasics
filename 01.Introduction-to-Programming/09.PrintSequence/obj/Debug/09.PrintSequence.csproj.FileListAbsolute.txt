@@ -1,5 +1,0 @@
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb

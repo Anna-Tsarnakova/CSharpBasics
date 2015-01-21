@@ -1,1 +1,0 @@
-C:\Users\Ani\Desktop\Basic-C#-Homework\01.Introduction-to-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config

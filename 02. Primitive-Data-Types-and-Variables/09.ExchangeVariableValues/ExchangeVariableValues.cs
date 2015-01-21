@@ -16,7 +16,7 @@ class ExchangeVariableValues
         a = b;
         b = c;
 
-        Console.WriteLine("The first values are: a = 5; b = 10 \nThe excanged values are: a = {0}; b = {1}", a, b);
+        Console.WriteLine("The first values are: a = 5; b = 10 \nThe exchanged values are: a = {0}; b = {1}", a, b);
     }
 }
 
